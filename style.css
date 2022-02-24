@@ -135,3 +135,18 @@ padding:50px;
 .try2{ 
   margin-bottom: 50px;
 }
+.darkGray{
+  background-color: rgb(58, 58, 58);
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 15px;
+  padding: 2vh 5vw;
+  border-spacing: 10px;
+}
+.pytDiv{
+  border: 1px solid white;
+  background-color: white;
+  text-align: center;
+  padding: 4vh 3vw;
+  height: 200px;
+}
